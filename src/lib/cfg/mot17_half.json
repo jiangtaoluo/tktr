@@ -1,0 +1,15 @@
+{
+    "root":"/mnt/storage/Dataset/JDE",
+    "train":
+    {
+        "mot17":"src/data/mot17.half"
+    },
+    "test_emb":
+    {
+        "mot17":"src/data/mot17.emb"
+    },
+    "test":
+    {
+        "mot17":"src/data/mot17.val"
+    }
+}

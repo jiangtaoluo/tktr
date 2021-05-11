@@ -1,0 +1,20 @@
+{
+    "root":"/mnt/storage/Dataset/JDE",
+    "train":
+    {
+        "mot17":"src/data/mot17.train",
+        "caltech":"src/data/caltech.all",
+        "citypersons":"src/data/citypersons.train",
+        "cuhksysu":"src/data/cuhksysu.train",
+        "prw":"src/data/prw.train",
+        "eth":"src/data/eth.train"
+    },
+    "test_emb":
+    {
+        "mot15":"src/data/mot15.val"
+    },
+    "test":
+    {
+        "mot15":"src/data/mot15.val"
+    }
+}
